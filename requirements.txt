@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy
+categorical_encoders
+scikit-learn
